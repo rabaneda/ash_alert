@@ -4,8 +4,7 @@ This tool is small piece of software to solve the exercise from https://github.c
 
 # Installation
 
-1.Go to https://www.anaconda.com/distribution/#download-section, and download anaconda for Python 3.7 according to your operation system (Ubuntu 20.04 in this case)
-  Please choose anaconda instead of miniconda. Otherwise some packages won't be there when running the tool and it will crash. 
+1.Go to https://www.anaconda.com/distribution/#download-section, and download anaconda for Python 3.7 according to your operation system (Ubuntu 20.04 in this case). Please choose anaconda instead of miniconda. Otherwise some packages won't be there when running the tool and it will crash. 
 2. Install anaconda with the downloaded executable file.
 3. Download install_volcano_linux. This file will create a conda environment and will install the necessary python packages.
 4. Open a shell window, change directory to the location of the “install_volcano_linux” and on the command line
