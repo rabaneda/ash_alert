@@ -1,0 +1,5 @@
+#!/bin/bash
+
+yes | conda create -n volcano python=3.7
+yes | conda install -n volcano xarray geopandas rasterio cartopy matplotlib
+
