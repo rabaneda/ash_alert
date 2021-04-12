@@ -40,7 +40,7 @@ Perhaps, you also want to double check those links.
 The tool does the job, hopefully I did not leave any bug, but there is still room for optimisation. Due to time constraint I couldn't do the following:
 1. Improve the map. Especially the projection. The projection the tool is using it is not optimal for high latitudes.
 2. Improve the robustness of the code with assertations, time performance, etc.
-3. Create other outputs, such a different map, or even create a shapefile with the areas over the ash threshold.
+3. Create other outputs, such as a different map, or even create a shapefile with the areas over the ash threshold.
 
 This was a very complete exercise in my opinion. A bit short of time though, since I also need to attend my duties at my current position. I'll be glad if the code can be useful for Met Norway. Please, feel free to get in touch for any question.
 
